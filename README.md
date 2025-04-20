@@ -2,7 +2,7 @@
 # 👋 Hi, I'm Kishu Anand Raj!
 
 ### 🎓 Education
-- **Bachelor of Technology (B.Tech)**  
+- **Bachelor of Technology (B.Tech)**  (sybiosis skills and professional university ) 2023-2027
   Computer Science and Information Technology (CSIT)  
   Specialization in **Cyber Security**
 
